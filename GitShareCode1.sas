@@ -11,4 +11,3 @@ added in client machine
 proc sort data=sashelp.class out=classsorted;
 by sex;
 
-*new  branch
